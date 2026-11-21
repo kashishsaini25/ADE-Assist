@@ -4,7 +4,7 @@ A retrieval-augmented question-answering system over FDA drug labels (openFDA). 
 
 > Educational project. Not medical advice.
 
-**Live demo:** `<add your link>`
+**Live demo:** `https://ade-assist-2qpdmzvqlinqrddpf3a4fe.streamlit.app/`
 
 ## Problem
 Drug labels are long and hard to scan. ADE-Assist lets you ask a natural-language question (for example, "Which antibiotic can cause tendon rupture?") and get a grounded answer with the exact passages it used.
