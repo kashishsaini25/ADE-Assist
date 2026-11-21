@@ -1,0 +1,4 @@
+mode,k,drug_hit@k,drug+section_hit@k,chunk_words,n_chunks
+hybrid,5,0.844,0.781,120,1426
+hybrid,5,0.938,0.875,200,931
+hybrid,5,0.938,0.875,350,537

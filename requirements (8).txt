@@ -1,0 +1,7 @@
+streamlit
+numpy
+requests
+sentence-transformers
+faiss-cpu
+rank_bm25
+google-genai
